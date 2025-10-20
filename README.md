@@ -1,8 +1,8 @@
 <h2> 👋 Hi I'm Owen! </h2>
 
 - 📚 Computer Science Student at The University of Texas at Dallas
-- 👨🏾‍💻 Student Software Developer at ACM Projects
-- 🛠️ Actively working on Spacia
+- 👨🏾‍💻 Sofware Engineer intern at Hilti
+- 🛠️ Currently focused on improving at competitive programming
 - 💜 Passionate about Full-Stack Development
 
 <h4 align="left">Tools</h4>
