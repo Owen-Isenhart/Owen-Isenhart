@@ -5,7 +5,7 @@
 <a href="mailto:oei230000@utdallas.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-- 📚 Computer Science Student at **The University of Texas at Dallas** ☄️
+- 📚 Computer Science Student at **The University of Texas at Dallas**
 - 👨🏾‍💻 **Software Engineer Intern** at Hilti
 - 🏛️ **Development Officer** at ACM UTD doing backend development for BSG
 - 📈 **Project Manager** at GDSC, leading the development of Enarc Exchange
