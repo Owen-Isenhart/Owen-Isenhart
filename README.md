@@ -8,7 +8,7 @@
 - 📚 Computer Science Student at **The University of Texas at Dallas**
 - 👨🏾‍💻 **Software Engineer Intern** at Hilti
 - 🏛️ **Development Officer** at ACM UTD doing backend development for BSG
-- 📈 **Project Manager** at GDSC, leading the development of Enarc Exchange
+- 📈 **Project Manager** at GDSC, previously led Enarc Exchange, now leading UTDDash
 - 🛠️ Currently focused on building **rawr**, an AI-driven agent hacking platform
 - 💜 Passionate about Full-Stack Development
 
