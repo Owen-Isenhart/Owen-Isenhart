@@ -28,7 +28,7 @@
 </div>
 
 <h4 align="left">Languages</h4>
-<div align="left">
+<div align="left" style="margin-bottom: 10px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" width="45" height="45" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="45" height="45" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" title="Go" width="45" height="45" style="margin-right: 10px;" />
@@ -37,3 +37,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" width="45" height="45" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="45" height="45" />
 </div>
+
+![](https://komarev.com/ghpvc/?username=Owen-Isenhart&color=brightgreen)
