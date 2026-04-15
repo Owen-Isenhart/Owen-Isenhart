@@ -29,7 +29,7 @@
   </tr>
 </table>
 
-<br /><br /><br /><br />
+<br /><br /><br />
 
 <h4 align="left">Languages</h4>
 <table align="left">
@@ -48,5 +48,5 @@
 <br />
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Owen-Isenhart&color=brightgreen" />
+  <img src="https://komarev.com/ghpvc/?username=Owen-Isenhart" />
 </p>
