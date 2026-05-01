@@ -6,10 +6,10 @@
 </p>
 
 - 📚 Computer Science Student at **The University of Texas at Dallas**
-- 👨🏾‍💻 **Software Engineer Intern** at Hilti
+- 👨🏾‍💻 **Software Development Intern** at Hilti, incoming at Goldman Sachs
 - 🏛️ **Development Officer** at ACM UTD doing backend development for BSG
-- 📈 **Project Manager** at GDSC, previously led Enarc Exchange, now leading UTDDash
-- 🛠️ Currently focused on building **rawr**, an AI-driven agent hacking platform
+- 📈 **Project Manager** at GDSC, previously led Enarc Exchange and UTDDash
+- 🛠️ Currently focused on building learning everything
 - 💜 Passionate about Full-Stack Development
 
 <h4 align="left">Tools</h4>
