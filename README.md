@@ -12,7 +12,7 @@
 - 🛠️ Currently focused on building learning everything
 - 💜 Passionate about Full-Stack Development
 
-<h4 align="left">Tools</h4>
+<h4 align="left">Frameworks/Tools</h4>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dotnet" title=".NET Core" width="45" height="45" />
   <img src="https://skillicons.dev/icons?i=angular" title="Angular" width="45" height="45" />
