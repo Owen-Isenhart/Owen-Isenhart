@@ -13,40 +13,34 @@
 - 💜 Passionate about Full-Stack Development
 
 <h4 align="left">Tools</h4>
-<table align="left">
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" width="45" height="45" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" title="Angular" width="45" height="45" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" width="45" height="45" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" width="45" height="45" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" width="45" height="45" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" title="Redis" width="45" height="45" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" width="45" height="45" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" title="Nginx" width="45" height="45" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" width="45" height="45" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" width="45" height="45" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" width="45" height="45" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" title="Git" width="45" height="45" /></td>
-  </tr>
-</table>
-
-<br /><br /><br />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet" title=".NET Core" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=angular" title="Angular" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=redis" title="Redis" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=nginx" title="Nginx" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" width="45" height="45" />
+</p>
 
 <h4 align="left">Languages</h4>
-<table align="left">
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" title="C++" width="45" height="45" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" title="Go" width="45" height="45" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" width="45" height="45" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="45" height="45" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" width="45" height="45" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" width="45" height="45" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" width="45" height="45" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="45" height="45" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="45" height="45" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" title="Bash" width="45" height="45" /></td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c" title="C" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=go" title="Go" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=cs" title="C#" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=py" title="Python" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=bash" title="Bash" width="45" height="45" />
+</p>
 
 <br clear="left" />
 <br />
