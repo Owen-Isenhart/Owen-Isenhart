@@ -6,11 +6,9 @@
 </p>
 
 - 📚 Computer Science Student at **The University of Texas at Dallas**
-- 👨🏾‍💻 **Software Development Intern** at Goldman Sachs
-- 🏛️ **Development Officer** at ACM UTD doing backend development for BSG
-- 📈 **Project Manager** at GDSC, previously led Enarc Exchange and UTDDash
-- 🛠️ Currently focused on cybersecurity and competitive programming
-- 💜 Passionate about Full-Stack Development
+- 👨🏾‍💻 **Software Engineer** at Goldman Sachs
+- 🛠️ Currently focused on cybersecurity, research, and whatever interests me
+- 🥇 1st Place HackUTD winner, Capital One track
 
 <h4 align="left">Frameworks/Tools</h4>
 <p align="left">
