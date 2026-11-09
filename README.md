@@ -8,7 +8,7 @@
 - 📚 Computer Science Student at **The University of Texas at Dallas**
 - 👨🏾‍💻 **Software Engineer** at Goldman Sachs
 - 🛠️ Currently focused on cybersecurity, research, and whatever interests me
-- 🥇 1st Place HackUTD winner, Capital One track
+- 🥇 **1st Place HackUTD** winner, Capital One track
 
 <h4 align="left">Frameworks/Tools</h4>
 <p align="left">
